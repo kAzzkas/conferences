@@ -1,0 +1,2 @@
+<?php
+// puslapis su sarasu
